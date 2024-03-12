@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpenseManager</string>
+    <string name="accunts">account\n</string>
+    <string name="trans">Transiction\n</string>
+    <string name="stats">stats\n</string>
+    <string name="more">more</string>
+    <string name="floting_btn">Floting_btn</string>
+</resources>

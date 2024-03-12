@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Transition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/menu_2948037"
+        android:title="@string/trans" />
+
+    <item
+        android:id="@+id/stats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/pie_chart_2936690"
+        android:title="@string/stats" />
+
+    <item
+        android:id="@+id/accounts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/avatar_11548556"
+        android:title="@string/accunts" />
+
+    <item
+        android:id="@+id/more"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/menu_2948037"
+        android:title="@string/more" />
+
+
+</menu>
